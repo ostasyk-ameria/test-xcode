@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     //TODO: plase init here
+    // add root view controller
     
     return YES;
 }
